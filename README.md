@@ -3,7 +3,8 @@
 Follow these steps to set up and run the Llama2-Medical-Chatbot project.
 
 
-
+Prerequisites
+Ensure that Anaconda and Git are installed on your system.
 
 
 
