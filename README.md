@@ -12,6 +12,7 @@ Ensure that Anaconda and Git are installed on your system.
 
 conda create -n myenv python=3.10
 
+
 3. 
 
 
