@@ -1,5 +1,6 @@
 # Llama2-Medical-Chatbot Setup Guide
 
+Follow these steps to set up and run the Llama2-Medical-Chatbot project.
 
 
 
