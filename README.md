@@ -9,6 +9,7 @@ Ensure that Anaconda and Git are installed on your system.
 ## Steps
 1. Open Anaconda Prompt
 2. Create a New Virtual Environment
+
 conda create -n myenv python=3.10
 
 3. 
